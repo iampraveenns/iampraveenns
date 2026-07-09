@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Praveen 👋</h1>
-<h3 align="center">MERN Stack Developer | 190+ DSA Problems Solved | Learning by Building</h3>
+<h3 align="center">MERN Stack Developer | 200+ DSA Problems Solved | Learning by Building</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Building+real+projects+to+learn+real+concepts;MERN+Stack+Developer+in+progress;200%2B+LeetCode+%7C+100-day+streak" alt="Typing SVG" />
@@ -109,7 +109,7 @@
   <img src="https://leetcard.jacoblin.cool/TUvnIm9UYY?theme=dark" alt="LeetCode Stats" />
 </p>
 
-- 🧩 **190+ problems solved**
+- 🧩 **200+ problems solved**
 - 🔥 **100+ day continuous streak**
 - ✅ Core concepts completed: **Arrays, Strings, Binary Search, Linked List**
 - 🔗 [View Profile](https://leetcode.com/u/TUvnIm9UYY/)
