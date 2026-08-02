@@ -105,9 +105,13 @@
 
 ### 💻 LeetCode
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/TUvnIm9UYY?theme=dark" alt="LeetCode Stats" />
-</p>
+<div align="center">
+
+## > leetcode_stats
+
+<img src="https://leetcard.jacoblin.cool/TUvnIm9UYY?theme=dark&font=Fira%20Code&ext=heatmap" />
+
+</div>
 
 - 🧩 **200+ problems solved**
 - 🔥 **100+ day continuous streak**
