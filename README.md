@@ -107,8 +107,6 @@
 
 <div align="center">
 
-## > leetcode_stats
-
 <img src="https://leetcard.jacoblin.cool/TUvnIm9UYY?theme=dark&font=Fira%20Code&ext=heatmap" />
 
 </div>
