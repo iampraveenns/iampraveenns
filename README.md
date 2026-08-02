@@ -81,7 +81,7 @@
 
 | Project | Description | Tech | Link |
 |---|---|---|---|
-| 🐦 **X-Clone** | Full-stack Twitter/X clone — user auth, posts, and a complete backend connected to a real database | MongoDB, Express, React, Node.js | [Code](https://github.com/iampraveenns/X-Clone) |
+| 🐦 **X-Clone** | Full-stack Twitter/X clone — user auth, posts, and a complete backend connected to a real database | MongoDB, Express, React, Node.js | [Live Demo](https://xclonne.netlify.app/) · [Code](https://github.com/iampraveenns/X-Clone) |
 | 🛍️ **BookHive** | A bookstore e-commerce UI built from scratch — multi-page navigation, cart with `localStorage`, category browsing | HTML, CSS, JavaScript | [Live Demo](https://bookhiveweb.netlify.app/) · [Code](https://github.com/iampraveenns/BookHive) |
 | 🎬 **MovieFinder** | Search and browse movies with a clean, responsive interface | HTML, CSS, JavaScript | [Code](https://github.com/iampraveenns/MovieFinder) |
 | 🌦️ **Weather/Expense Tool** ⚠️ | *Repo name and stated purpose don't match — confirm which one this is before publishing* | JavaScript, REST API | [Code](https://github.com/iampraveenns/expense-tracker) |
