@@ -13,7 +13,7 @@
 - 🐦 I built an **X (Twitter) Clone** using the full MERN stack — auth, posts, and a real backend connected to MongoDB
 - 🛍️ I built **BookHive**, an e-commerce-style bookstore UI from scratch in HTML, CSS & JavaScript — to properly understand `localStorage` and multi-page navigation
 - 🎬 I built **MovieFinder** and an API-driven utility app, practicing real-world data fetching and UI logic
-- 🧠 Solved **190+ problems on LeetCode**, maintaining a **100+ day streak**, with strong fundamentals in Arrays, Strings, Binary Search & Linked Lists
+- 🧠 Solved **260+ problems on LeetCode**, maintaining a **100+ day streak**, with strong fundamentals in Arrays, Strings, Binary Search & Linked Lists
 - 🌱 Every project I build is intentional — I pick projects based on *what concept I need to learn next*
 - 💬 Ask me about: MERN architecture, DOM manipulation, localStorage-based apps, or DSA problem patterns
 
