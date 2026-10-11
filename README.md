@@ -1,134 +1,135 @@
-<h1 align="center">Hi there, I'm Praveen 👋</h1>
-<h3 align="center">Full Stack Developer | 260+ DSA Problems Solved | Learning by Building</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Building+real+projects+to+learn+real+concepts;Full+Stack+Developer+in+progress;260%2B+LeetCode+%7C+100-day+streak" alt="Typing SVG" />
-</p>
-
----
-
-### 🧭 About Me
-
-- 🎓 I'm a Computer Science student who learns by **building things, not just watching tutorials**
-- 🐦 I built an **X (Twitter) Clone** using the full MERN stack — auth, posts, and a real backend connected to MongoDB
-- 🛍️ I built **BookHive**, an e-commerce-style bookstore UI from scratch in HTML, CSS & JavaScript — to properly understand `localStorage` and multi-page navigation
-- 🎬 I built **MovieFinder** and an API-driven utility app, practicing real-world data fetching and UI logic
-- 🧠 Solved **260+ problems on LeetCode**, maintaining a **100+ day streak**, with strong fundamentals in Arrays, Strings, Binary Search & Linked Lists
-- 🌱 Every project I build is intentional — I pick projects based on *what concept I need to learn next*
-- 💬 Ask me about: MERN architecture, DOM manipulation, localStorage-based apps, or DSA problem patterns
-
----
-
-### 🔭 Current Focus
-
-```text
-[████████████████░░░░] 80%  Vanilla JS (DOM, localStorage, events) — Solid
-[████████████░░░░░░░░] 60%  React.js — Building real projects
-[██████████░░░░░░░░░░] 50%  Node.js / Express — Used in production project
-[██████████░░░░░░░░░░] 50%  MongoDB — Used in production project
-[████████████░░░░░░░░] 60%  DSA — Array, String, Binary Search, Linked List done; Trees/Graphs next
-```
-
----
-
-### 🛠️ Tech Stack
-
-**Languages**
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-</p>
-
-**MERN Stack**
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-</p>
-
-**Tools**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
-
----
-
-### 🗺️ Learning Roadmap
-
-- [x] Master HTML/CSS fundamentals
-- [x] Learn vanilla JavaScript (DOM, events, localStorage)
-- [x] Build a complete front-end project solo (BookHive)
-- [x] Learn React.js — components, hooks, state management
-- [x] Learn Node.js + Express — REST APIs
-- [x] Learn MongoDB — database design & integration
-- [x] Build a full MERN project (X-Clone — front-end + back-end + DB)
-- [x] Start Data Structures & Algorithms — 260+ problems solved, 100+ day streak
-- [ ] Cover Trees, Graphs, and Dynamic Programming in DSA
-- [ ] Make my first open-source contribution
-- [ ] Add real-time features to a project (WebSockets/Socket.io)
-- [ ] Deepen MERN project — add testing, better auth (refresh tokens), deployment monitoring
-
----
-
-### 📌 Featured Projects
-
-| Project | Description | Tech | Link |
-|---|---|---|---|
-| 🐦 **X-Clone** | Full-stack Twitter/X clone — user auth, posts, and a complete backend connected to a real database | MongoDB, Express, React, Node.js | [Live Demo](https://xclonne.netlify.app/) · [Code](https://github.com/iampraveenns/X-Clone) |
-| 🛍️ **BookHive** | A bookstore e-commerce UI built from scratch — multi-page navigation, cart with `localStorage`, category browsing | HTML, CSS, JavaScript | [Live Demo](https://bookhiveweb.netlify.app/) · [Code](https://github.com/iampraveenns/BookHive) |
-| 🎬 **MovieFinder** | Search and browse movies with a clean, responsive interface | HTML, CSS, JavaScript | [Code](https://github.com/iampraveenns/MovieFinder) |
-| 🌦️ **Weather/Expense Tool** ⚠️ | *Repo name and stated purpose don't match — confirm which one this is before publishing* | JavaScript, REST API | [Code](https://github.com/iampraveenns/expense-tracker) |
-
-> ⚠️ **Fix before publishing:** the 4th project's repo is named `expense-tracker` but was described as a Weather Finder. Rename the repo or correct the description so they match — a recruiter clicking through will notice immediately otherwise.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=iampraveenns&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=iampraveenns&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iampraveenns&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
-
-### 💻 LeetCode
+<!-- Modern GitHub Profile README | github.com/iampraveenns -->
 
 <div align="center">
-
-<img src="https://leetcard.jacoblin.cool/TUvnIm9UYY?theme=dark&font=Fira%20Code&ext=heatmap" />
-
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=220&section=header&text=Praveen%20S&fontSize=58&fontColor=FFFFFF&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20Problem%20Solving&descAlignY=58&descSize=17" alt="Praveen S — Full-Stack Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+useful+full-stack+applications;Designing+REST+APIs+with+security+in+mind;Learning+by+building%2C+testing%2C+and+improving" alt="Typing introduction" />
+  <br />
+  <a href="https://praveenns.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Explore-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/iampraveenns/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/iampraveenns"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://leetcode.com/u/impraveenn/"><img src="https://img.shields.io/badge/LeetCode-275%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile — 275+ problems solved" /></a>
 </div>
 
-- 🧩 **260+ problems solved**
-- 🔥 **100+ day continuous streak**
-- ✅ Core concepts completed: **Arrays, Strings, Binary Search, Linked List**
-- 🔗 [View Profile](https://leetcode.com/u/TUvnIm9UYY/)
-
 ---
 
-### 📫 Connect With Me
+## 👋 About Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/praveens04/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+I'm a **Full-Stack Developer** and MCA student who enjoys building practical web applications from UI to API to database. I focus on clean application structure, secure authentication, reliable API design, and learning through hands-on projects.
+
+- 💼 Completed a **Full-Stack Web Development Internship** at Bleep Education, in collaboration with E-cell IIT Bombay.
+- 🧩 Solved **275+ LeetCode problems**, primarily using C++.
+- 🔐 Built apps with **JWT authentication, refresh-token handling, bcrypt, and Redis rate limiting**.
+- ⚙️ Worked with **React, Node.js, Express, MongoDB Atlas, MySQL, Redis, and TanStack Query**.
+- 🎓 Pursuing an **MCA at Rathinam Technical Campus**, Coimbatore.
+
+> **My approach:** Build it. Understand it. Improve it.
+
+## ✨ Highlights
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="25%"><h2>275+</h2><sub>LeetCode Problems</sub></td>
+      <td align="center" width="25%"><h2>2</h2><sub>Full-Stack MERN Projects</sub></td>
+      <td align="center" width="25%"><h2>6</h2><sub>Notes API Endpoints</sub></td>
+      <td align="center" width="25%"><h2>8</h2><sub>X Clone API Endpoints</sub></td>
+    </tr>
+  </table>
+</div>
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📝 Personal Notes App</h3>
+      <p>A full-stack notes app built to practise API design, request protection, database integration, and deployment.</p>
+      <ul>
+        <li>Built a <b>6-endpoint REST API</b> handling approximately <b>500 requests/day</b>.</li>
+        <li>Added Upstash Redis rate limiting using a <b>sliding-window algorithm</b> with a 100-request / 15-minute limit.</li>
+        <li>Configured production CORS and deployed frontend and backend as separate services.</li>
+      </ul>
+      <p><b>Stack</b><br />React · Node.js · Express · MongoDB Atlas · Upstash Redis</p>
+      <a href="https://github.com/iampraveenns?tab=repositories">Browse repositories ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🐦 X (Twitter) Clone</h3>
+      <p>A responsive social media application with authentication, protected routes, CRUD operations, and a component-based UI.</p>
+      <ul>
+        <li>Implemented JWT authentication, refresh-token handling, and bcrypt password hashing.</li>
+        <li>Created <b>8 REST API endpoints</b> protected by JWT middleware.</li>
+        <li>Integrated TanStack Query for data fetching and state management.</li>
+      </ul>
+      <p><b>Stack</b><br />React · Node.js · Express · MongoDB · TanStack Query</p>
+      <a href="https://xclonne.netlify.app/">Live demo ↗</a> · <a href="https://github.com/iampraveenns/X-Clone">Source code ↗</a>
+    </td>
+  </tr>
+</table>
+
+## 🧰 Tech Stack
+
+**Languages**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=fff) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=fff) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
+
+**Frontend**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff) ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=fff)
+
+**Backend & Data**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff) ![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=fff) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=fff)
+
+**Security, APIs & Tools**  
+![JWT](https://img.shields.io/badge/JWT-000?style=for-the-badge&logo=jsonwebtokens&logoColor=fff) ![REST APIs](https://img.shields.io/badge/REST_APIs-0A7EA4?style=for-the-badge) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=fff) ![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=fff) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=000) ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=000)
+
+## 💼 Experience
+
+**Full-Stack Web Development Intern** · Bleep Education  
+*In collaboration with E-cell IIT Bombay · April 2026 – August 2026*
+
+- Developed full-stack web applications using the MERN stack, JWT authentication, and REST API design.
+- Practised Git version control, API testing with Postman, and production deployment workflows.
+- Applied MVC architecture and component-based frontend development in a team environment.
+
+## 🎓 Education & Certifications
+
+| Qualification | Institution | Details |
+|---|---|---|
+| **Master of Computer Applications (MCA)** · 2025–Present | Rathinam Technical Campus, Coimbatore | CGPA: **8.24** through Semester 2 |
+| **B.Sc. Information Systems** · 2022–2025 | Kongu Engineering College, Perundurai | CGPA: **8.24** |
+
+- 🏅 **NPTEL – Computer Networks and Internet Protocol:** Elite + Silver, Top 5% performer, score **78%**.
+- 📜 **IBM – Gen AI Prompt Engineering Basics**.
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=iampraveenns&show_icons=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9" alt="GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampraveenns&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="Most used programming languages" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=iampraveenns&hide_border=true&background=0D1117&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
+</div>
+
+## 🧠 LeetCode
+
+<div align="center">
+  <a href="https://leetcode.com/u/impraveenn/">
+    <img src="https://leetcard.jacoblin.cool/impraveenn?theme=dark&font=Fira%20Code&ext=heatmap" alt="Praveen's LeetCode profile card" />
   </a>
-  <a href="mailto:praveenselvaraj2004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <p><b>275+ problems solved</b> · Practising data structures, algorithms, and problem-solving patterns.</p>
+  <a href="https://leetcode.com/u/impraveenn/">
+    <img src="https://img.shields.io/badge/Visit%20LeetCode%20Profile-impraveenn-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Open LeetCode profile" />
   </a>
-</p>
+</div>
 
----
+## 🤝 Let's Connect
 
-<p align="center"><i>"I learn by building, not just by watching."</i></p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/iampraveenns/"><img src="https://img.shields.io/badge/LinkedIn-Praveen_S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:praveenselvaraj2004@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://praveenns.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Explore-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+</div>
+
+<div align="center">
+  <br />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=100&section=footer" alt="" />
+  <i>“Build it. Understand it. Improve it.”</i>
+</div>
