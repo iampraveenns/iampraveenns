@@ -105,7 +105,7 @@ I'm a **Full-Stack Developer** and MCA student who enjoys building practical web
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=iampraveenns&show_icons=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9" alt="GitHub statistics" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampraveenns&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="Most used programming languages" />
   <br />
-  <img src="https://streak-stats.demolab.com?user=iampraveenns&hide_border=true&background=0D1117&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=iampraveenns&hide_border=true&background=0D1117&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8&sideLabels=F5B52E&dates=8B949E" alt="GitHub contribution streak" />
 </div>
 
 ## 🧠 LeetCode
