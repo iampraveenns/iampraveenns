@@ -32,7 +32,7 @@ I'm a **Full-Stack Developer** and MCA student who enjoys building practical web
       <td align="center" width="25%"><h2>275+</h2><sub>LeetCode Problems</sub></td>
       <td align="center" width="25%"><h2>2</h2><sub>Full-Stack MERN Projects</sub></td>
       <td align="center" width="25%"><h2>6</h2><sub>Notes API Endpoints</sub></td>
-      <td align="center" width="25%"><h2>8</h2><sub>X Clone API Endpoints</sub></td>
+      <td align="center" width="25%"><h2>8</h2><sub>Let's Connect API Endpoints</sub></td>
     </tr>
   </table>
 </div>
@@ -53,7 +53,7 @@ I'm a **Full-Stack Developer** and MCA student who enjoys building practical web
       <a href="https://github.com/iampraveenns?tab=repositories">Browse repositories ↗</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🐦 X (Twitter) Clone</h3>
+      <h3>🐦 Let's Connect</h3>
       <p>A responsive social media application with authentication, protected routes, CRUD operations, and a component-based UI.</p>
       <ul>
         <li>Implemented JWT authentication, refresh-token handling, and bcrypt password hashing.</li>
@@ -61,7 +61,7 @@ I'm a **Full-Stack Developer** and MCA student who enjoys building practical web
         <li>Integrated TanStack Query for data fetching and state management.</li>
       </ul>
       <p><b>Stack</b><br />React · Node.js · Express · MongoDB · TanStack Query</p>
-      <a href="https://xclonne.netlify.app/">Live demo ↗</a> · <a href="https://github.com/iampraveenns/X-Clone">Source code ↗</a>
+      <a href="https://lletsconnect.netlify.app/">Live demo ↗</a> · <a href="https://github.com/iampraveenns/X-Clone">Source code ↗</a>
     </td>
   </tr>
 </table>
